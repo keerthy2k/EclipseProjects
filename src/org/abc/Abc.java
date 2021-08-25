@@ -15,4 +15,12 @@ public class Abc {
 		// TODO Auto-generated method stub
 
 	}
+	public void method4() {
+		// TODO Auto-generated method stub
+
+	}
+	public void method5() {
+		// TODO Auto-generated method stub
+
+	}
 }
